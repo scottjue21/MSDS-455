@@ -1,8 +1,8 @@
-# Children Involved in Sports Activities (1998-2020) by Poverty Status
+# Children Involved in Sports Activities (1998-2018) by Poverty Status
 
 ## Project Overview
 
-The goal of this project is to create data visualizations using bar charts to represent temporal data. Bar charts are well-suited for comparing data across time periods, making them appropriate for this analysis. For this project, a dataset representing children aged 6 to 17 involved in sports activities by poverty status between 1998 and 2020 was selected.
+The goal of this project is to create data visualizations using bar charts to represent temporal data. Bar charts are well-suited for comparing data across time periods, making them appropriate for this analysis. For this project, a dataset representing children aged 6 to 17 involved in sports activities by poverty status between 1998 and 2018 was selected.
 
 The data visualized comes from the U.S. Census Bureau and provides valuable insights into the correlation between poverty status and children's involvement in sports activities.
 
