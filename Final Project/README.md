@@ -1,23 +1,25 @@
 # Comparison of Recent NHL Expansion Teams: Seattle Kraken vs. Las Vegas Golden Knights
 
 ## Project Overview
-This project serves as the final assignment for the Data Visualization course. It focuses on comparing the two most recent NHL expansion teams, the Seattle Kraken and the Las Vegas Golden Knights. The analysis includes several aspects of each team, from their initial expansion draft rosters to their performance in their inaugural seasons and beyond. The visualizations were created using Tableau and Python.
+This project, developed as the capstone for a Data Visualization course, leverages Tableau and Python to compare the two most recent NHL expansion teams: the Seattle Kraken and the Las Vegas Golden Knights. The analysis spans multiple facets of team development and performance, from their initial expansion draft rosters to their performance metrics in their inaugural seasons and subsequent years.
 
-The project consists of the following visualizations:
-1. **Team Roster Comparison**: 
-   - Comparison of initial expansion draft rosters, including player positions and demographics, as well as how each team approached the NHL draft to build their rosters.
-2. **Inaugural Season Comparison**:
-   - Team statistics, the top 5 players' stats, and goalie performance for both teams in their inaugural seasons.
-   - Analysis of how each team’s second season compared to their first.
-3. **Team Salary Analysis**:
-   - Comparison of salary allocations by position and overall team salary cap hits.
-   - Evaluation of each team's salary cap hit versus their points in the NHL standings compared to other teams.
-4. **Arena and Attendance**:
-   - Visualizations comparing the arenas of both teams, including funding sources, total capacity, and construction costs.
-   - A chart analyzing game day attendance for the inaugural seasons of each team.
+### Visualizations Include:
+1. **Team Roster Comparison**: Analyzes initial expansion draft rosters, player positions, and demographics, showcasing each team's strategy in building their rosters through the NHL draft.
+3. **Inaugural Season Comparison**:
+   - Team performance metrics
+   - Top 5 players' statistics
+   - Goalie performance
+   - Season-over-season performance comparison
+4. **Team Salary Analysis**:
+   - Salary allocations by position
+   - Overall team salary cap impacts
+   - Salary cap efficiency based on NHL standings
+5. **Arena and Attendance Analysis**:
+   - Arena funding sources, capacity, and construction costs
+   - Game day attendance comparisons for the inaugural seasons.
 
 ## Presentation
-The complete set of visualizations can be found in the project presentation here: [Prezi Presentation](https://prezi.com/view/XwS7JjP36YnosjQJcjyr/).
+The comprehensive set of visualizations is showcased in a [Prezi Presentation](https://prezi.com/view/XwS7JjP36YnosjQJcjyr/) that details the findings and insights derived from the analysis.
 
 ## Tools Utilized
 - **Python**: For data cleaning and data manipulation
