@@ -11,6 +11,8 @@ The data visualized comes from the U.S. Census Bureau and provides valuable insi
 - **Bar Chart**: Displays the percentage and total number of children aged 6 to 17 participating in sports activities, segmented by poverty status across multiple years.
 - The data was visualized using **Seaborn** to effectively highlight trends over time.
 
+![Child Sports Activities by Poverty Status](/assets/child_sport_activities_by_poverty_status.png)
+
 ## Data Source
 
 The data for this project was sourced from the U.S. Census Bureau's [Children’s Involvement in Activities](https://www.census.gov/data/tables/time-series/demo/children/childs-day.html) report.
