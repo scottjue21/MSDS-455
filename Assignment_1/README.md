@@ -7,7 +7,7 @@ Two separate line charts were created using Matplotlib:
 - **Renewable Energy Consumption (2009-2019)**
 - **CO2 Emissions (2009-2019)**
 
-![Renewable energy and CO2 emission chart](/assets/assignment1_renewable_energy_consumption_and_co2_emissions_by_country.png)
+![Renewable energy and CO2 emission chart](/Assignment_1/assets/assignment1_renewable_energy_consumption_and_co2_emissions_by_country.png)
 
 ## Data Source
 The data for this project was sourced from the [World Bank World Development Indicators](https://databank.worldbank.org/source/world-development-indicators).
