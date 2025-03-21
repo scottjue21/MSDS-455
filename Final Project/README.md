@@ -19,6 +19,11 @@ The project consists of the following visualizations:
 ## Presentation
 The complete set of visualizations can be found in the project presentation here: [Prezi Presentation](https://prezi.com/view/XwS7JjP36YnosjQJcjyr/).
 
+## Tools Utilized
+- **Python**: For data cleaning and data manipulation
+- **Tableau**: For creating data visualizations
+- **Prezi**: For compiling the data visualizations into an interactive presentation
+
 ## Data Sources
 - **Salary Data**:
   - [CapFriendly](https://www.capfriendly.com)
