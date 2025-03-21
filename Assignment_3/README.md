@@ -7,6 +7,8 @@ This project visualizes hierarchical and part-to-whole data by comparing the per
 - The pie chart highlights the proportion of emissions contributed by each country, providing a clear view of the hierarchical structure of global emissions and their part-to-whole relationship.
 - Matplotlib was used to generate the pie chart.
 
+![Percent CO2 emissions by country](/assets/percent_global_co2_emissions_by_country.png)
+
 ## Data Source
 [World Development Indicators](https://databank.worldbank.org/source/world-development-indicators)
 
