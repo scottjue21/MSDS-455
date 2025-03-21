@@ -13,6 +13,8 @@ These visualizations offer a clear, comparative view of COVID-19 impacts across 
   
 Both maps utilize color bars to quantify case data for easier interpretation and analysis.
 
+![COVID19 cases by state](/assets/covid19_cases_by_state.png)
+
 ## Tools Utilized
 - **GeoPandas**: For creating map visualizations and handling spatial data.
 
